@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ArnauSoler
+- 👀 I’m interested in python and django.
+- 🌱 I’m currently learning django and web development.
+- 📫 How to reach me: arnau@arnausoler.cat
